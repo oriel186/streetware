@@ -1,0 +1,5284 @@
+[
+    {
+        "id":  "vk770-001",
+        "name":  "Dior B30 Black",
+        "price":  249,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/001-whatsapp-image-2026-05-14-at-20-34-26-1.jpeg",
+                       "/products/002-whatsapp-image-2026-05-14-at-20-34-26-2.jpeg",
+                       "/products/003-whatsapp-image-2026-05-14-at-20-34-26-3.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Dior B30 Black - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  true,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-002",
+        "name":  "Luxury Black Set",
+        "price":  189,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/002-whatsapp-image-2026-05-14-at-20-34-26-2.jpeg",
+                       "/products/003-whatsapp-image-2026-05-14-at-20-34-26-3.jpeg",
+                       "/products/004-whatsapp-image-2026-05-14-at-20-34-26.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Luxury Black Set - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-003",
+        "name":  "Street Luxe Jacket",
+        "price":  109,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/003-whatsapp-image-2026-05-14-at-20-34-26-3.jpeg",
+                       "/products/004-whatsapp-image-2026-05-14-at-20-34-26.jpeg",
+                       "/products/005-whatsapp-image-2026-05-14-at-20-34-27.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Street Luxe Jacket - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-004",
+        "name":  "Premium Cargo Black",
+        "price":  179,
+        "category":  "Pants",
+        "images":  [
+                       "/products/004-whatsapp-image-2026-05-14-at-20-34-26.jpeg",
+                       "/products/005-whatsapp-image-2026-05-14-at-20-34-27.jpeg",
+                       "/products/006-whatsapp-image-2026-05-14-at-20-34-28-1.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Premium Cargo Black - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-005",
+        "name":  "Kasher Crossbody",
+        "price":  109,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/005-whatsapp-image-2026-05-14-at-20-34-27.jpeg",
+                       "/products/006-whatsapp-image-2026-05-14-at-20-34-28-1.jpeg",
+                       "/products/007-whatsapp-image-2026-05-14-at-20-34-28.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Crossbody - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-006",
+        "name":  "Kasher Runner Grey",
+        "price":  299,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/006-whatsapp-image-2026-05-14-at-20-34-28-1.jpeg",
+                       "/products/007-whatsapp-image-2026-05-14-at-20-34-28.jpeg",
+                       "/products/008-whatsapp-image-2026-05-14-at-20-34-29-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Kasher Runner Grey - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-007",
+        "name":  "Kasher Core Hoodie",
+        "price":  239,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/007-whatsapp-image-2026-05-14-at-20-34-28.jpeg",
+                       "/products/008-whatsapp-image-2026-05-14-at-20-34-29-1.jpeg",
+                       "/products/009-whatsapp-image-2026-05-14-at-20-34-29-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Kasher Core Hoodie - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-008",
+        "name":  "Noir Signature Tee",
+        "price":  89,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/008-whatsapp-image-2026-05-14-at-20-34-29-1.jpeg",
+                       "/products/009-whatsapp-image-2026-05-14-at-20-34-29-2.jpeg",
+                       "/products/010-whatsapp-image-2026-05-14-at-20-34-29.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Noir Signature Tee - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-009",
+        "name":  "Atelier Cargo Fit",
+        "price":  159,
+        "category":  "Pants",
+        "images":  [
+                       "/products/009-whatsapp-image-2026-05-14-at-20-34-29-2.jpeg",
+                       "/products/010-whatsapp-image-2026-05-14-at-20-34-29.jpeg",
+                       "/products/011-whatsapp-image-2026-05-14-at-20-34-30-1.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Atelier Cargo Fit - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-010",
+        "name":  "Kasher Mini Bag",
+        "price":  89,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/010-whatsapp-image-2026-05-14-at-20-34-29.jpeg",
+                       "/products/011-whatsapp-image-2026-05-14-at-20-34-30-1.jpeg",
+                       "/products/012-whatsapp-image-2026-05-14-at-20-34-30-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Mini Bag - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  true,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-011",
+        "name":  "Noir Pulse Runner",
+        "price":  279,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/011-whatsapp-image-2026-05-14-at-20-34-30-1.jpeg",
+                       "/products/012-whatsapp-image-2026-05-14-at-20-34-30-2.jpeg",
+                       "/products/013-whatsapp-image-2026-05-14-at-20-34-30-3.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "Noir Pulse Runner - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-012",
+        "name":  "Kasher Urban Set",
+        "price":  219,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/012-whatsapp-image-2026-05-14-at-20-34-30-2.jpeg",
+                       "/products/013-whatsapp-image-2026-05-14-at-20-34-30-3.jpeg",
+                       "/products/014-whatsapp-image-2026-05-14-at-20-34-30.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Kasher Urban Set - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-013",
+        "name":  "Midnight Track Set",
+        "price":  139,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/013-whatsapp-image-2026-05-14-at-20-34-30-3.jpeg",
+                       "/products/014-whatsapp-image-2026-05-14-at-20-34-30.jpeg",
+                       "/products/015-whatsapp-image-2026-05-14-at-20-34-31-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Midnight Track Set - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-014",
+        "name":  "Elite Street Jacket",
+        "price":  209,
+        "category":  "Pants",
+        "images":  [
+                       "/products/014-whatsapp-image-2026-05-14-at-20-34-30.jpeg",
+                       "/products/015-whatsapp-image-2026-05-14-at-20-34-31-1.jpeg",
+                       "/products/016-whatsapp-image-2026-05-14-at-20-34-31-2.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Elite Street Jacket - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-015",
+        "name":  "Kasher Cap Black",
+        "price":  69,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/015-whatsapp-image-2026-05-14-at-20-34-31-1.jpeg",
+                       "/products/016-whatsapp-image-2026-05-14-at-20-34-31-2.jpeg",
+                       "/products/017-whatsapp-image-2026-05-14-at-20-34-31-3.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Cap Black - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-016",
+        "name":  "B30 Chrome Black",
+        "price":  259,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/016-whatsapp-image-2026-05-14-at-20-34-31-2.jpeg",
+                       "/products/017-whatsapp-image-2026-05-14-at-20-34-31-3.jpeg",
+                       "/products/018-whatsapp-image-2026-05-14-at-20-34-31-4.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "B30 Chrome Black - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  true,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-017",
+        "name":  "Kasher Utility Set",
+        "price":  199,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/017-whatsapp-image-2026-05-14-at-20-34-31-3.jpeg",
+                       "/products/018-whatsapp-image-2026-05-14-at-20-34-31-4.jpeg",
+                       "/products/019-whatsapp-image-2026-05-14-at-20-34-31.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Kasher Utility Set - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-018",
+        "name":  "Luxury Black Set 02",
+        "price":  119,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/018-whatsapp-image-2026-05-14-at-20-34-31-4.jpeg",
+                       "/products/019-whatsapp-image-2026-05-14-at-20-34-31.jpeg",
+                       "/products/020-whatsapp-image-2026-05-14-at-20-34-32-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Luxury Black Set 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-019",
+        "name":  "Street Luxe Jacket 02",
+        "price":  189,
+        "category":  "Pants",
+        "images":  [
+                       "/products/019-whatsapp-image-2026-05-14-at-20-34-31.jpeg",
+                       "/products/020-whatsapp-image-2026-05-14-at-20-34-32-1.jpeg",
+                       "/products/021-whatsapp-image-2026-05-14-at-20-34-32-2.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Street Luxe Jacket 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  true,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-020",
+        "name":  "Kasher Belt Pack",
+        "price":  119,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/020-whatsapp-image-2026-05-14-at-20-34-32-1.jpeg",
+                       "/products/021-whatsapp-image-2026-05-14-at-20-34-32-2.jpeg",
+                       "/products/022-whatsapp-image-2026-05-14-at-20-34-32.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Belt Pack - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  true,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-021",
+        "name":  "Urban Shadow Runner",
+        "price":  309,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/021-whatsapp-image-2026-05-14-at-20-34-32-2.jpeg",
+                       "/products/022-whatsapp-image-2026-05-14-at-20-34-32.jpeg",
+                       "/products/023-whatsapp-image-2026-05-14-at-21-15-10-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Urban Shadow Runner - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-022",
+        "name":  "Premium Cargo Black 02",
+        "price":  179,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/022-whatsapp-image-2026-05-14-at-20-34-32.jpeg",
+                       "/products/023-whatsapp-image-2026-05-14-at-21-15-10-1.jpeg",
+                       "/products/024-whatsapp-image-2026-05-14-at-21-15-10-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Premium Cargo Black 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-023",
+        "name":  "Kasher Core Hoodie 02",
+        "price":  99,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/023-whatsapp-image-2026-05-14-at-21-15-10-1.jpeg",
+                       "/products/024-whatsapp-image-2026-05-14-at-21-15-10-2.jpeg",
+                       "/products/025-whatsapp-image-2026-05-14-at-21-15-10.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Kasher Core Hoodie 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-024",
+        "name":  "Noir Signature Tee 02",
+        "price":  169,
+        "category":  "Pants",
+        "images":  [
+                       "/products/024-whatsapp-image-2026-05-14-at-21-15-10-2.jpeg",
+                       "/products/025-whatsapp-image-2026-05-14-at-21-15-10.jpeg",
+                       "/products/026-whatsapp-image-2026-05-14-at-21-15-11-1.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Noir Signature Tee 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-025",
+        "name":  "Kasher Side Pouch",
+        "price":  99,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/025-whatsapp-image-2026-05-14-at-21-15-10.jpeg",
+                       "/products/026-whatsapp-image-2026-05-14-at-21-15-11-1.jpeg",
+                       "/products/027-whatsapp-image-2026-05-14-at-21-15-11-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Side Pouch - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-026",
+        "name":  "Kasher Trail Lux",
+        "price":  289,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/026-whatsapp-image-2026-05-14-at-21-15-11-1.jpeg",
+                       "/products/027-whatsapp-image-2026-05-14-at-21-15-11-2.jpeg",
+                       "/products/028-whatsapp-image-2026-05-14-at-21-15-11-3.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "Kasher Trail Lux - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-027",
+        "name":  "Atelier Cargo Fit 02",
+        "price":  229,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/027-whatsapp-image-2026-05-14-at-21-15-11-2.jpeg",
+                       "/products/028-whatsapp-image-2026-05-14-at-21-15-11-3.jpeg",
+                       "/products/029-whatsapp-image-2026-05-14-at-21-15-11-4.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Atelier Cargo Fit 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-028",
+        "name":  "Kasher Urban Set 02",
+        "price":  149,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/028-whatsapp-image-2026-05-14-at-21-15-11-3.jpeg",
+                       "/products/029-whatsapp-image-2026-05-14-at-21-15-11-4.jpeg",
+                       "/products/030-whatsapp-image-2026-05-14-at-21-15-11-5.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Kasher Urban Set 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-029",
+        "name":  "Midnight Track Set 02",
+        "price":  149,
+        "category":  "Pants",
+        "images":  [
+                       "/products/029-whatsapp-image-2026-05-14-at-21-15-11-4.jpeg",
+                       "/products/030-whatsapp-image-2026-05-14-at-21-15-11-5.jpeg",
+                       "/products/031-whatsapp-image-2026-05-14-at-21-15-11.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Midnight Track Set 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-030",
+        "name":  "Kasher Wallet Luxe",
+        "price":  79,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/030-whatsapp-image-2026-05-14-at-21-15-11-5.jpeg",
+                       "/products/031-whatsapp-image-2026-05-14-at-21-15-11.jpeg",
+                       "/products/032-whatsapp-image-2026-05-14-at-21-15-12-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Wallet Luxe - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-031",
+        "name":  "Monolith Runner",
+        "price":  269,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/031-whatsapp-image-2026-05-14-at-21-15-11.jpeg",
+                       "/products/032-whatsapp-image-2026-05-14-at-21-15-12-1.jpeg",
+                       "/products/033-whatsapp-image-2026-05-14-at-21-15-12-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Monolith Runner - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-032",
+        "name":  "Elite Street Jacket 02",
+        "price":  209,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/032-whatsapp-image-2026-05-14-at-21-15-12-1.jpeg",
+                       "/products/033-whatsapp-image-2026-05-14-at-21-15-12-2.jpeg",
+                       "/products/034-whatsapp-image-2026-05-14-at-21-15-12-3.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Elite Street Jacket 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-033",
+        "name":  "Kasher Utility Set 02",
+        "price":  129,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/033-whatsapp-image-2026-05-14-at-21-15-12-2.jpeg",
+                       "/products/034-whatsapp-image-2026-05-14-at-21-15-12-3.jpeg",
+                       "/products/035-whatsapp-image-2026-05-14-at-21-15-12-4.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Kasher Utility Set 02 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-034",
+        "name":  "Luxury Black Set 03",
+        "price":  199,
+        "category":  "Pants",
+        "images":  [
+                       "/products/034-whatsapp-image-2026-05-14-at-21-15-12-3.jpeg",
+                       "/products/035-whatsapp-image-2026-05-14-at-21-15-12-4.jpeg",
+                       "/products/036-whatsapp-image-2026-05-14-at-21-15-12-5.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Luxury Black Set 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-035",
+        "name":  "Kasher Steel Watch",
+        "price":  129,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/035-whatsapp-image-2026-05-14-at-21-15-12-4.jpeg",
+                       "/products/036-whatsapp-image-2026-05-14-at-21-15-12-5.jpeg",
+                       "/products/037-whatsapp-image-2026-05-14-at-21-15-12-6.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Steel Watch - montre urbaine premium, design sobre et detail luxe.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-036",
+        "name":  "B30 Street Silver",
+        "price":  249,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/036-whatsapp-image-2026-05-14-at-21-15-12-5.jpeg",
+                       "/products/037-whatsapp-image-2026-05-14-at-21-15-12-6.jpeg",
+                       "/products/038-whatsapp-image-2026-05-14-at-21-15-12.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "B30 Street Silver - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-037",
+        "name":  "Street Luxe Jacket 03",
+        "price":  189,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/037-whatsapp-image-2026-05-14-at-21-15-12-6.jpeg",
+                       "/products/038-whatsapp-image-2026-05-14-at-21-15-12.jpeg",
+                       "/products/039-whatsapp-image-2026-05-14-at-21-15-13-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Street Luxe Jacket 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-038",
+        "name":  "Premium Cargo Black 03",
+        "price":  109,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/038-whatsapp-image-2026-05-14-at-21-15-12.jpeg",
+                       "/products/039-whatsapp-image-2026-05-14-at-21-15-13-1.jpeg",
+                       "/products/040-whatsapp-image-2026-05-14-at-21-15-13-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Premium Cargo Black 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-039",
+        "name":  "Kasher Core Hoodie 03",
+        "price":  179,
+        "category":  "Pants",
+        "images":  [
+                       "/products/039-whatsapp-image-2026-05-14-at-21-15-13-1.jpeg",
+                       "/products/040-whatsapp-image-2026-05-14-at-21-15-13-2.jpeg",
+                       "/products/041-whatsapp-image-2026-05-14-at-21-15-13-3.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Kasher Core Hoodie 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-040",
+        "name":  "Kasher Crossbody 02",
+        "price":  109,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/040-whatsapp-image-2026-05-14-at-21-15-13-2.jpeg",
+                       "/products/041-whatsapp-image-2026-05-14-at-21-15-13-3.jpeg",
+                       "/products/042-whatsapp-image-2026-05-14-at-21-15-13-4.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Crossbody 02 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-041",
+        "name":  "Kasher Motion Black",
+        "price":  299,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/041-whatsapp-image-2026-05-14-at-21-15-13-3.jpeg",
+                       "/products/042-whatsapp-image-2026-05-14-at-21-15-13-4.jpeg",
+                       "/products/043-whatsapp-image-2026-05-14-at-21-15-13-5.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "Kasher Motion Black - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-042",
+        "name":  "Noir Signature Tee 03",
+        "price":  239,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/042-whatsapp-image-2026-05-14-at-21-15-13-4.jpeg",
+                       "/products/043-whatsapp-image-2026-05-14-at-21-15-13-5.jpeg",
+                       "/products/044-whatsapp-image-2026-05-14-at-21-15-13-6.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Noir Signature Tee 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-043",
+        "name":  "Atelier Cargo Fit 03",
+        "price":  89,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/043-whatsapp-image-2026-05-14-at-21-15-13-5.jpeg",
+                       "/products/044-whatsapp-image-2026-05-14-at-21-15-13-6.jpeg",
+                       "/products/045-whatsapp-image-2026-05-14-at-21-15-13-7.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Atelier Cargo Fit 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-044",
+        "name":  "Kasher Urban Set 03",
+        "price":  159,
+        "category":  "Pants",
+        "images":  [
+                       "/products/044-whatsapp-image-2026-05-14-at-21-15-13-6.jpeg",
+                       "/products/045-whatsapp-image-2026-05-14-at-21-15-13-7.jpeg",
+                       "/products/046-whatsapp-image-2026-05-14-at-21-15-13.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Kasher Urban Set 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-045",
+        "name":  "Kasher Mini Bag 02",
+        "price":  89,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/045-whatsapp-image-2026-05-14-at-21-15-13-7.jpeg",
+                       "/products/046-whatsapp-image-2026-05-14-at-21-15-13.jpeg",
+                       "/products/047-whatsapp-image-2026-05-14-at-21-15-14-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Mini Bag 02 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-046",
+        "name":  "Luxe Track Runner",
+        "price":  279,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/046-whatsapp-image-2026-05-14-at-21-15-13.jpeg",
+                       "/products/047-whatsapp-image-2026-05-14-at-21-15-14-1.jpeg",
+                       "/products/048-whatsapp-image-2026-05-14-at-21-15-14.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Luxe Track Runner - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-047",
+        "name":  "Midnight Track Set 03",
+        "price":  219,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/047-whatsapp-image-2026-05-14-at-21-15-14-1.jpeg",
+                       "/products/048-whatsapp-image-2026-05-14-at-21-15-14.jpeg",
+                       "/products/049-whatsapp-image-2026-05-14-at-23-30-43-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Midnight Track Set 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-048",
+        "name":  "Elite Street Jacket 03",
+        "price":  139,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/048-whatsapp-image-2026-05-14-at-21-15-14.jpeg",
+                       "/products/049-whatsapp-image-2026-05-14-at-23-30-43-1.jpeg",
+                       "/products/050-whatsapp-image-2026-05-14-at-23-30-43-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Elite Street Jacket 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-049",
+        "name":  "Kasher Utility Set 03",
+        "price":  209,
+        "category":  "Pants",
+        "images":  [
+                       "/products/049-whatsapp-image-2026-05-14-at-23-30-43-1.jpeg",
+                       "/products/050-whatsapp-image-2026-05-14-at-23-30-43-2.jpeg",
+                       "/products/051-whatsapp-image-2026-05-14-at-23-30-43.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Kasher Utility Set 03 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-050",
+        "name":  "Kasher Cap Black 02",
+        "price":  69,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/050-whatsapp-image-2026-05-14-at-23-30-43-2.jpeg",
+                       "/products/051-whatsapp-image-2026-05-14-at-23-30-43.jpeg",
+                       "/products/052-whatsapp-image-2026-05-14-at-23-30-44-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Cap Black 02 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-051",
+        "name":  "Dior B30 Black 02",
+        "price":  259,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/051-whatsapp-image-2026-05-14-at-23-30-43.jpeg",
+                       "/products/052-whatsapp-image-2026-05-14-at-23-30-44-1.jpeg",
+                       "/products/053-whatsapp-image-2026-05-14-at-23-30-44.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Dior B30 Black 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-052",
+        "name":  "Luxury Black Set 04",
+        "price":  199,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/052-whatsapp-image-2026-05-14-at-23-30-44-1.jpeg",
+                       "/products/053-whatsapp-image-2026-05-14-at-23-30-44.jpeg",
+                       "/products/054-whatsapp-image-2026-05-14-at-23-30-45-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Luxury Black Set 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-053",
+        "name":  "Street Luxe Jacket 04",
+        "price":  119,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/053-whatsapp-image-2026-05-14-at-23-30-44.jpeg",
+                       "/products/054-whatsapp-image-2026-05-14-at-23-30-45-1.jpeg",
+                       "/products/055-whatsapp-image-2026-05-14-at-23-30-45-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Street Luxe Jacket 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-054",
+        "name":  "Premium Cargo Black 04",
+        "price":  189,
+        "category":  "Pants",
+        "images":  [
+                       "/products/054-whatsapp-image-2026-05-14-at-23-30-45-1.jpeg",
+                       "/products/055-whatsapp-image-2026-05-14-at-23-30-45-2.jpeg",
+                       "/products/056-whatsapp-image-2026-05-14-at-23-30-45.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Premium Cargo Black 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-055",
+        "name":  "Kasher Belt Pack 02",
+        "price":  119,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/055-whatsapp-image-2026-05-14-at-23-30-45-2.jpeg",
+                       "/products/056-whatsapp-image-2026-05-14-at-23-30-45.jpeg",
+                       "/products/057-whatsapp-image-2026-05-14-at-23-30-46-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Belt Pack 02 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-056",
+        "name":  "Kasher Runner Grey 02",
+        "price":  309,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/056-whatsapp-image-2026-05-14-at-23-30-45.jpeg",
+                       "/products/057-whatsapp-image-2026-05-14-at-23-30-46-1.jpeg",
+                       "/products/058-whatsapp-image-2026-05-14-at-23-30-46-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "Kasher Runner Grey 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-057",
+        "name":  "Kasher Core Hoodie 04",
+        "price":  179,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/057-whatsapp-image-2026-05-14-at-23-30-46-1.jpeg",
+                       "/products/058-whatsapp-image-2026-05-14-at-23-30-46-2.jpeg",
+                       "/products/059-whatsapp-image-2026-05-14-at-23-30-46.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Kasher Core Hoodie 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-058",
+        "name":  "Noir Signature Tee 04",
+        "price":  99,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/058-whatsapp-image-2026-05-14-at-23-30-46-2.jpeg",
+                       "/products/059-whatsapp-image-2026-05-14-at-23-30-46.jpeg",
+                       "/products/060-whatsapp-image-2026-05-14-at-23-30-48.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Noir Signature Tee 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-059",
+        "name":  "Atelier Cargo Fit 04",
+        "price":  169,
+        "category":  "Pants",
+        "images":  [
+                       "/products/059-whatsapp-image-2026-05-14-at-23-30-46.jpeg",
+                       "/products/060-whatsapp-image-2026-05-14-at-23-30-48.jpeg",
+                       "/products/061-whatsapp-image-2026-05-14-at-23-30-49-1.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Atelier Cargo Fit 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-060",
+        "name":  "Kasher Side Pouch 02",
+        "price":  99,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/060-whatsapp-image-2026-05-14-at-23-30-48.jpeg",
+                       "/products/061-whatsapp-image-2026-05-14-at-23-30-49-1.jpeg",
+                       "/products/062-whatsapp-image-2026-05-14-at-23-30-49-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Side Pouch 02 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-061",
+        "name":  "Noir Pulse Runner 02",
+        "price":  289,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/061-whatsapp-image-2026-05-14-at-23-30-49-1.jpeg",
+                       "/products/062-whatsapp-image-2026-05-14-at-23-30-49-2.jpeg",
+                       "/products/063-whatsapp-image-2026-05-14-at-23-30-49-3.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Noir Pulse Runner 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-062",
+        "name":  "Kasher Urban Set 04",
+        "price":  229,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/062-whatsapp-image-2026-05-14-at-23-30-49-2.jpeg",
+                       "/products/063-whatsapp-image-2026-05-14-at-23-30-49-3.jpeg",
+                       "/products/064-whatsapp-image-2026-05-14-at-23-30-49.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Kasher Urban Set 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-063",
+        "name":  "Midnight Track Set 04",
+        "price":  149,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/063-whatsapp-image-2026-05-14-at-23-30-49-3.jpeg",
+                       "/products/064-whatsapp-image-2026-05-14-at-23-30-49.jpeg",
+                       "/products/065-whatsapp-image-2026-05-14-at-23-30-50-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Midnight Track Set 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-064",
+        "name":  "Elite Street Jacket 04",
+        "price":  149,
+        "category":  "Pants",
+        "images":  [
+                       "/products/064-whatsapp-image-2026-05-14-at-23-30-49.jpeg",
+                       "/products/065-whatsapp-image-2026-05-14-at-23-30-50-1.jpeg",
+                       "/products/066-whatsapp-image-2026-05-14-at-23-30-50-2.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Elite Street Jacket 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-065",
+        "name":  "Kasher Wallet Luxe 02",
+        "price":  79,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/065-whatsapp-image-2026-05-14-at-23-30-50-1.jpeg",
+                       "/products/066-whatsapp-image-2026-05-14-at-23-30-50-2.jpeg",
+                       "/products/067-whatsapp-image-2026-05-14-at-23-30-50.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Wallet Luxe 02 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-066",
+        "name":  "B30 Chrome Black 02",
+        "price":  269,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/066-whatsapp-image-2026-05-14-at-23-30-50-2.jpeg",
+                       "/products/067-whatsapp-image-2026-05-14-at-23-30-50.jpeg",
+                       "/products/068-whatsapp-image-2026-05-14-at-23-30-51-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "B30 Chrome Black 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-067",
+        "name":  "Kasher Utility Set 04",
+        "price":  209,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/067-whatsapp-image-2026-05-14-at-23-30-50.jpeg",
+                       "/products/068-whatsapp-image-2026-05-14-at-23-30-51-1.jpeg",
+                       "/products/069-whatsapp-image-2026-05-14-at-23-30-51-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Kasher Utility Set 04 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-068",
+        "name":  "Luxury Black Set 05",
+        "price":  129,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/068-whatsapp-image-2026-05-14-at-23-30-51-1.jpeg",
+                       "/products/069-whatsapp-image-2026-05-14-at-23-30-51-2.jpeg",
+                       "/products/070-whatsapp-image-2026-05-14-at-23-30-51-3.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Luxury Black Set 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-069",
+        "name":  "Street Luxe Jacket 05",
+        "price":  199,
+        "category":  "Pants",
+        "images":  [
+                       "/products/069-whatsapp-image-2026-05-14-at-23-30-51-2.jpeg",
+                       "/products/070-whatsapp-image-2026-05-14-at-23-30-51-3.jpeg",
+                       "/products/071-whatsapp-image-2026-05-14-at-23-30-51.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Street Luxe Jacket 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-070",
+        "name":  "Kasher Crossbody 03",
+        "price":  129,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/070-whatsapp-image-2026-05-14-at-23-30-51-3.jpeg",
+                       "/products/071-whatsapp-image-2026-05-14-at-23-30-51.jpeg",
+                       "/products/072-whatsapp-image-2026-05-14-at-23-30-52-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Crossbody 03 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-071",
+        "name":  "Urban Shadow Runner 02",
+        "price":  249,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/071-whatsapp-image-2026-05-14-at-23-30-51.jpeg",
+                       "/products/072-whatsapp-image-2026-05-14-at-23-30-52-1.jpeg",
+                       "/products/073-whatsapp-image-2026-05-14-at-23-30-52-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "Urban Shadow Runner 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-072",
+        "name":  "Premium Cargo Black 05",
+        "price":  189,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/072-whatsapp-image-2026-05-14-at-23-30-52-1.jpeg",
+                       "/products/073-whatsapp-image-2026-05-14-at-23-30-52-2.jpeg",
+                       "/products/074-whatsapp-image-2026-05-14-at-23-30-52.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Premium Cargo Black 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-073",
+        "name":  "Kasher Core Hoodie 05",
+        "price":  109,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/073-whatsapp-image-2026-05-14-at-23-30-52-2.jpeg",
+                       "/products/074-whatsapp-image-2026-05-14-at-23-30-52.jpeg",
+                       "/products/075-whatsapp-image-2026-05-14-at-23-30-53-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Kasher Core Hoodie 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-074",
+        "name":  "Noir Signature Tee 05",
+        "price":  179,
+        "category":  "Pants",
+        "images":  [
+                       "/products/074-whatsapp-image-2026-05-14-at-23-30-52.jpeg",
+                       "/products/075-whatsapp-image-2026-05-14-at-23-30-53-1.jpeg",
+                       "/products/076-whatsapp-image-2026-05-14-at-23-30-53-2.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Noir Signature Tee 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-075",
+        "name":  "Kasher Mini Bag 03",
+        "price":  109,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/075-whatsapp-image-2026-05-14-at-23-30-53-1.jpeg",
+                       "/products/076-whatsapp-image-2026-05-14-at-23-30-53-2.jpeg",
+                       "/products/077-whatsapp-image-2026-05-14-at-23-30-53-3.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Mini Bag 03 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-076",
+        "name":  "Kasher Trail Lux 02",
+        "price":  299,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/076-whatsapp-image-2026-05-14-at-23-30-53-2.jpeg",
+                       "/products/077-whatsapp-image-2026-05-14-at-23-30-53-3.jpeg",
+                       "/products/078-whatsapp-image-2026-05-14-at-23-30-53.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Kasher Trail Lux 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-077",
+        "name":  "Atelier Cargo Fit 05",
+        "price":  239,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/077-whatsapp-image-2026-05-14-at-23-30-53-3.jpeg",
+                       "/products/078-whatsapp-image-2026-05-14-at-23-30-53.jpeg",
+                       "/products/079-whatsapp-image-2026-05-14-at-23-30-54-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Atelier Cargo Fit 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-078",
+        "name":  "Kasher Urban Set 05",
+        "price":  89,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/078-whatsapp-image-2026-05-14-at-23-30-53.jpeg",
+                       "/products/079-whatsapp-image-2026-05-14-at-23-30-54-1.jpeg",
+                       "/products/080-whatsapp-image-2026-05-14-at-23-30-54-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Kasher Urban Set 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-079",
+        "name":  "Midnight Track Set 05",
+        "price":  159,
+        "category":  "Pants",
+        "images":  [
+                       "/products/079-whatsapp-image-2026-05-14-at-23-30-54-1.jpeg",
+                       "/products/080-whatsapp-image-2026-05-14-at-23-30-54-2.jpeg",
+                       "/products/081-whatsapp-image-2026-05-14-at-23-30-54.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Midnight Track Set 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-080",
+        "name":  "Kasher Cap Black 03",
+        "price":  89,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/080-whatsapp-image-2026-05-14-at-23-30-54-2.jpeg",
+                       "/products/081-whatsapp-image-2026-05-14-at-23-30-54.jpeg",
+                       "/products/082-whatsapp-image-2026-05-14-at-23-30-55-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Cap Black 03 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-081",
+        "name":  "Monolith Runner 02",
+        "price":  279,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/081-whatsapp-image-2026-05-14-at-23-30-54.jpeg",
+                       "/products/082-whatsapp-image-2026-05-14-at-23-30-55-1.jpeg",
+                       "/products/083-whatsapp-image-2026-05-14-at-23-30-55-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Monolith Runner 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-082",
+        "name":  "Elite Street Jacket 05",
+        "price":  219,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/082-whatsapp-image-2026-05-14-at-23-30-55-1.jpeg",
+                       "/products/083-whatsapp-image-2026-05-14-at-23-30-55-2.jpeg",
+                       "/products/084-whatsapp-image-2026-05-14-at-23-30-55.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Elite Street Jacket 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-083",
+        "name":  "Kasher Utility Set 05",
+        "price":  139,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/083-whatsapp-image-2026-05-14-at-23-30-55-2.jpeg",
+                       "/products/084-whatsapp-image-2026-05-14-at-23-30-55.jpeg",
+                       "/products/085-whatsapp-image-2026-05-14-at-23-30-56-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Kasher Utility Set 05 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-084",
+        "name":  "Luxury Black Set 06",
+        "price":  209,
+        "category":  "Pants",
+        "images":  [
+                       "/products/084-whatsapp-image-2026-05-14-at-23-30-55.jpeg",
+                       "/products/085-whatsapp-image-2026-05-14-at-23-30-56-1.jpeg",
+                       "/products/086-whatsapp-image-2026-05-14-at-23-30-56-2.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Luxury Black Set 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-085",
+        "name":  "Kasher Belt Pack 03",
+        "price":  69,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/085-whatsapp-image-2026-05-14-at-23-30-56-1.jpeg",
+                       "/products/086-whatsapp-image-2026-05-14-at-23-30-56-2.jpeg",
+                       "/products/087-whatsapp-image-2026-05-14-at-23-30-56.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Belt Pack 03 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-086",
+        "name":  "B30 Street Silver 02",
+        "price":  259,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/086-whatsapp-image-2026-05-14-at-23-30-56-2.jpeg",
+                       "/products/087-whatsapp-image-2026-05-14-at-23-30-56.jpeg",
+                       "/products/088-whatsapp-image-2026-05-14-at-23-30-57-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "B30 Street Silver 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-087",
+        "name":  "Street Luxe Jacket 06",
+        "price":  199,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/087-whatsapp-image-2026-05-14-at-23-30-56.jpeg",
+                       "/products/088-whatsapp-image-2026-05-14-at-23-30-57-1.jpeg",
+                       "/products/089-whatsapp-image-2026-05-14-at-23-30-57-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Street Luxe Jacket 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-088",
+        "name":  "Premium Cargo Black 06",
+        "price":  119,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/088-whatsapp-image-2026-05-14-at-23-30-57-1.jpeg",
+                       "/products/089-whatsapp-image-2026-05-14-at-23-30-57-2.jpeg",
+                       "/products/090-whatsapp-image-2026-05-14-at-23-30-57-3.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Premium Cargo Black 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-089",
+        "name":  "Kasher Core Hoodie 06",
+        "price":  189,
+        "category":  "Pants",
+        "images":  [
+                       "/products/089-whatsapp-image-2026-05-14-at-23-30-57-2.jpeg",
+                       "/products/090-whatsapp-image-2026-05-14-at-23-30-57-3.jpeg",
+                       "/products/091-whatsapp-image-2026-05-14-at-23-30-57.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Kasher Core Hoodie 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-090",
+        "name":  "Kasher Side Pouch 03",
+        "price":  119,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/090-whatsapp-image-2026-05-14-at-23-30-57-3.jpeg",
+                       "/products/091-whatsapp-image-2026-05-14-at-23-30-57.jpeg",
+                       "/products/092-whatsapp-image-2026-05-14-at-23-30-58-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Side Pouch 03 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-091",
+        "name":  "Kasher Motion Black 02",
+        "price":  309,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/091-whatsapp-image-2026-05-14-at-23-30-57.jpeg",
+                       "/products/092-whatsapp-image-2026-05-14-at-23-30-58-1.jpeg",
+                       "/products/093-whatsapp-image-2026-05-14-at-23-30-58-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Kasher Motion Black 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-092",
+        "name":  "Noir Signature Tee 06",
+        "price":  179,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/092-whatsapp-image-2026-05-14-at-23-30-58-1.jpeg",
+                       "/products/093-whatsapp-image-2026-05-14-at-23-30-58-2.jpeg",
+                       "/products/094-whatsapp-image-2026-05-14-at-23-30-58-3.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Noir Signature Tee 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-093",
+        "name":  "Atelier Cargo Fit 06",
+        "price":  99,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/093-whatsapp-image-2026-05-14-at-23-30-58-2.jpeg",
+                       "/products/094-whatsapp-image-2026-05-14-at-23-30-58-3.jpeg",
+                       "/products/095-whatsapp-image-2026-05-14-at-23-30-58.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Atelier Cargo Fit 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-094",
+        "name":  "Kasher Urban Set 06",
+        "price":  169,
+        "category":  "Pants",
+        "images":  [
+                       "/products/094-whatsapp-image-2026-05-14-at-23-30-58-3.jpeg",
+                       "/products/095-whatsapp-image-2026-05-14-at-23-30-58.jpeg",
+                       "/products/096-whatsapp-image-2026-05-14-at-23-30-59-1.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Kasher Urban Set 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-095",
+        "name":  "Kasher Wallet Luxe 03",
+        "price":  99,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/095-whatsapp-image-2026-05-14-at-23-30-58.jpeg",
+                       "/products/096-whatsapp-image-2026-05-14-at-23-30-59-1.jpeg",
+                       "/products/097-whatsapp-image-2026-05-14-at-23-30-59-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Wallet Luxe 03 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-096",
+        "name":  "Luxe Track Runner 02",
+        "price":  289,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/096-whatsapp-image-2026-05-14-at-23-30-59-1.jpeg",
+                       "/products/097-whatsapp-image-2026-05-14-at-23-30-59-2.jpeg",
+                       "/products/098-whatsapp-image-2026-05-14-at-23-30-59.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Luxe Track Runner 02 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-097",
+        "name":  "Midnight Track Set 06",
+        "price":  229,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/097-whatsapp-image-2026-05-14-at-23-30-59-2.jpeg",
+                       "/products/098-whatsapp-image-2026-05-14-at-23-30-59.jpeg",
+                       "/products/099-whatsapp-image-2026-05-14-at-23-31-00-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Midnight Track Set 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-098",
+        "name":  "Elite Street Jacket 06",
+        "price":  149,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/098-whatsapp-image-2026-05-14-at-23-30-59.jpeg",
+                       "/products/099-whatsapp-image-2026-05-14-at-23-31-00-1.jpeg",
+                       "/products/100-whatsapp-image-2026-05-14-at-23-31-00-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Elite Street Jacket 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-099",
+        "name":  "Kasher Utility Set 06",
+        "price":  149,
+        "category":  "Pants",
+        "images":  [
+                       "/products/099-whatsapp-image-2026-05-14-at-23-31-00-1.jpeg",
+                       "/products/100-whatsapp-image-2026-05-14-at-23-31-00-2.jpeg",
+                       "/products/101-whatsapp-image-2026-05-14-at-23-31-00.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Kasher Utility Set 06 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-100",
+        "name":  "Kasher Crossbody 04",
+        "price":  79,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/100-whatsapp-image-2026-05-14-at-23-31-00-2.jpeg",
+                       "/products/101-whatsapp-image-2026-05-14-at-23-31-00.jpeg",
+                       "/products/102-whatsapp-image-2026-05-14-at-23-31-01-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Crossbody 04 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-101",
+        "name":  "Dior B30 Black 03",
+        "price":  269,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/101-whatsapp-image-2026-05-14-at-23-31-00.jpeg",
+                       "/products/102-whatsapp-image-2026-05-14-at-23-31-01-1.jpeg",
+                       "/products/103-whatsapp-image-2026-05-14-at-23-31-01-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "Dior B30 Black 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-102",
+        "name":  "Luxury Black Set 07",
+        "price":  209,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/102-whatsapp-image-2026-05-14-at-23-31-01-1.jpeg",
+                       "/products/103-whatsapp-image-2026-05-14-at-23-31-01-2.jpeg",
+                       "/products/104-whatsapp-image-2026-05-14-at-23-31-01-3.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Luxury Black Set 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-103",
+        "name":  "Street Luxe Jacket 07",
+        "price":  129,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/103-whatsapp-image-2026-05-14-at-23-31-01-2.jpeg",
+                       "/products/104-whatsapp-image-2026-05-14-at-23-31-01-3.jpeg",
+                       "/products/105-whatsapp-image-2026-05-14-at-23-31-01.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Street Luxe Jacket 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-104",
+        "name":  "Premium Cargo Black 07",
+        "price":  199,
+        "category":  "Pants",
+        "images":  [
+                       "/products/104-whatsapp-image-2026-05-14-at-23-31-01-3.jpeg",
+                       "/products/105-whatsapp-image-2026-05-14-at-23-31-01.jpeg",
+                       "/products/106-whatsapp-image-2026-05-14-at-23-31-02-1.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Premium Cargo Black 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-105",
+        "name":  "Kasher Mini Bag 04",
+        "price":  129,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/105-whatsapp-image-2026-05-14-at-23-31-01.jpeg",
+                       "/products/106-whatsapp-image-2026-05-14-at-23-31-02-1.jpeg",
+                       "/products/107-whatsapp-image-2026-05-14-at-23-31-02-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Mini Bag 04 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-106",
+        "name":  "Kasher Runner Grey 03",
+        "price":  249,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/106-whatsapp-image-2026-05-14-at-23-31-02-1.jpeg",
+                       "/products/107-whatsapp-image-2026-05-14-at-23-31-02-2.jpeg",
+                       "/products/108-whatsapp-image-2026-05-14-at-23-31-02.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Kasher Runner Grey 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-107",
+        "name":  "Kasher Core Hoodie 07",
+        "price":  189,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/107-whatsapp-image-2026-05-14-at-23-31-02-2.jpeg",
+                       "/products/108-whatsapp-image-2026-05-14-at-23-31-02.jpeg",
+                       "/products/109-whatsapp-image-2026-05-14-at-23-31-03-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Kasher Core Hoodie 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-108",
+        "name":  "Noir Signature Tee 07",
+        "price":  109,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/108-whatsapp-image-2026-05-14-at-23-31-02.jpeg",
+                       "/products/109-whatsapp-image-2026-05-14-at-23-31-03-1.jpeg",
+                       "/products/110-whatsapp-image-2026-05-14-at-23-31-03-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Noir Signature Tee 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-109",
+        "name":  "Atelier Cargo Fit 07",
+        "price":  179,
+        "category":  "Pants",
+        "images":  [
+                       "/products/109-whatsapp-image-2026-05-14-at-23-31-03-1.jpeg",
+                       "/products/110-whatsapp-image-2026-05-14-at-23-31-03-2.jpeg",
+                       "/products/111-whatsapp-image-2026-05-14-at-23-31-03-3.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Atelier Cargo Fit 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-110",
+        "name":  "Kasher Cap Black 04",
+        "price":  109,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/110-whatsapp-image-2026-05-14-at-23-31-03-2.jpeg",
+                       "/products/111-whatsapp-image-2026-05-14-at-23-31-03-3.jpeg",
+                       "/products/112-whatsapp-image-2026-05-14-at-23-31-03.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Cap Black 04 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-111",
+        "name":  "Noir Pulse Runner 03",
+        "price":  299,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/111-whatsapp-image-2026-05-14-at-23-31-03-3.jpeg",
+                       "/products/112-whatsapp-image-2026-05-14-at-23-31-03.jpeg",
+                       "/products/113-whatsapp-image-2026-05-14-at-23-31-04-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Noir Pulse Runner 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-112",
+        "name":  "Kasher Urban Set 07",
+        "price":  239,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/112-whatsapp-image-2026-05-14-at-23-31-03.jpeg",
+                       "/products/113-whatsapp-image-2026-05-14-at-23-31-04-1.jpeg",
+                       "/products/114-whatsapp-image-2026-05-14-at-23-31-04-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Kasher Urban Set 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-113",
+        "name":  "Midnight Track Set 07",
+        "price":  89,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/113-whatsapp-image-2026-05-14-at-23-31-04-1.jpeg",
+                       "/products/114-whatsapp-image-2026-05-14-at-23-31-04-2.jpeg",
+                       "/products/115-whatsapp-image-2026-05-14-at-23-31-04.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Midnight Track Set 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-114",
+        "name":  "Elite Street Jacket 07",
+        "price":  159,
+        "category":  "Pants",
+        "images":  [
+                       "/products/114-whatsapp-image-2026-05-14-at-23-31-04-2.jpeg",
+                       "/products/115-whatsapp-image-2026-05-14-at-23-31-04.jpeg",
+                       "/products/116-whatsapp-image-2026-05-14-at-23-31-05-1.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Elite Street Jacket 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-115",
+        "name":  "Kasher Belt Pack 04",
+        "price":  89,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/115-whatsapp-image-2026-05-14-at-23-31-04.jpeg",
+                       "/products/116-whatsapp-image-2026-05-14-at-23-31-05-1.jpeg",
+                       "/products/117-whatsapp-image-2026-05-14-at-23-31-05-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Belt Pack 04 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-116",
+        "name":  "B30 Chrome Black 03",
+        "price":  279,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/116-whatsapp-image-2026-05-14-at-23-31-05-1.jpeg",
+                       "/products/117-whatsapp-image-2026-05-14-at-23-31-05-2.jpeg",
+                       "/products/118-whatsapp-image-2026-05-14-at-23-31-05.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "B30 Chrome Black 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-117",
+        "name":  "Kasher Utility Set 07",
+        "price":  219,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/117-whatsapp-image-2026-05-14-at-23-31-05-2.jpeg",
+                       "/products/118-whatsapp-image-2026-05-14-at-23-31-05.jpeg",
+                       "/products/119-whatsapp-image-2026-05-14-at-23-31-06-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Kasher Utility Set 07 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-118",
+        "name":  "Luxury Black Set 08",
+        "price":  139,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/118-whatsapp-image-2026-05-14-at-23-31-05.jpeg",
+                       "/products/119-whatsapp-image-2026-05-14-at-23-31-06-1.jpeg",
+                       "/products/120-whatsapp-image-2026-05-14-at-23-31-06-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Luxury Black Set 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-119",
+        "name":  "Street Luxe Jacket 08",
+        "price":  209,
+        "category":  "Pants",
+        "images":  [
+                       "/products/119-whatsapp-image-2026-05-14-at-23-31-06-1.jpeg",
+                       "/products/120-whatsapp-image-2026-05-14-at-23-31-06-2.jpeg",
+                       "/products/121-whatsapp-image-2026-05-14-at-23-31-06.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Street Luxe Jacket 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-120",
+        "name":  "Kasher Noir Watch",
+        "price":  69,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/120-whatsapp-image-2026-05-14-at-23-31-06-2.jpeg",
+                       "/products/121-whatsapp-image-2026-05-14-at-23-31-06.jpeg",
+                       "/products/122-whatsapp-image-2026-05-14-at-23-31-07-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Noir Watch - montre urbaine premium, design sobre et detail luxe.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-121",
+        "name":  "Urban Shadow Runner 03",
+        "price":  259,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/121-whatsapp-image-2026-05-14-at-23-31-06.jpeg",
+                       "/products/122-whatsapp-image-2026-05-14-at-23-31-07-1.jpeg",
+                       "/products/123-whatsapp-image-2026-05-14-at-23-31-07-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Urban Shadow Runner 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-122",
+        "name":  "Premium Cargo Black 08",
+        "price":  199,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/122-whatsapp-image-2026-05-14-at-23-31-07-1.jpeg",
+                       "/products/123-whatsapp-image-2026-05-14-at-23-31-07-2.jpeg",
+                       "/products/124-whatsapp-image-2026-05-14-at-23-31-07.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Premium Cargo Black 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-123",
+        "name":  "Kasher Core Hoodie 08",
+        "price":  119,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/123-whatsapp-image-2026-05-14-at-23-31-07-2.jpeg",
+                       "/products/124-whatsapp-image-2026-05-14-at-23-31-07.jpeg",
+                       "/products/125-whatsapp-image-2026-05-14-at-23-31-08-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Kasher Core Hoodie 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-124",
+        "name":  "Noir Signature Tee 08",
+        "price":  189,
+        "category":  "Pants",
+        "images":  [
+                       "/products/124-whatsapp-image-2026-05-14-at-23-31-07.jpeg",
+                       "/products/125-whatsapp-image-2026-05-14-at-23-31-08-1.jpeg",
+                       "/products/126-whatsapp-image-2026-05-14-at-23-31-08-2.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Noir Signature Tee 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-125",
+        "name":  "Kasher Side Pouch 04",
+        "price":  119,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/125-whatsapp-image-2026-05-14-at-23-31-08-1.jpeg",
+                       "/products/126-whatsapp-image-2026-05-14-at-23-31-08-2.jpeg",
+                       "/products/127-whatsapp-image-2026-05-14-at-23-31-08.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Side Pouch 04 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-126",
+        "name":  "Kasher Trail Lux 03",
+        "price":  309,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/126-whatsapp-image-2026-05-14-at-23-31-08-2.jpeg",
+                       "/products/127-whatsapp-image-2026-05-14-at-23-31-08.jpeg",
+                       "/products/128-whatsapp-image-2026-05-14-at-23-31-09-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Kasher Trail Lux 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-127",
+        "name":  "Atelier Cargo Fit 08",
+        "price":  179,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/127-whatsapp-image-2026-05-14-at-23-31-08.jpeg",
+                       "/products/128-whatsapp-image-2026-05-14-at-23-31-09-1.jpeg",
+                       "/products/129-whatsapp-image-2026-05-14-at-23-31-09-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Atelier Cargo Fit 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-128",
+        "name":  "Kasher Urban Set 08",
+        "price":  99,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/128-whatsapp-image-2026-05-14-at-23-31-09-1.jpeg",
+                       "/products/129-whatsapp-image-2026-05-14-at-23-31-09-2.jpeg",
+                       "/products/130-whatsapp-image-2026-05-14-at-23-31-09-3.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Kasher Urban Set 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-129",
+        "name":  "Midnight Track Set 08",
+        "price":  169,
+        "category":  "Pants",
+        "images":  [
+                       "/products/129-whatsapp-image-2026-05-14-at-23-31-09-2.jpeg",
+                       "/products/130-whatsapp-image-2026-05-14-at-23-31-09-3.jpeg",
+                       "/products/131-whatsapp-image-2026-05-14-at-23-31-09.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Midnight Track Set 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-130",
+        "name":  "Kasher Wallet Luxe 04",
+        "price":  99,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/130-whatsapp-image-2026-05-14-at-23-31-09-3.jpeg",
+                       "/products/131-whatsapp-image-2026-05-14-at-23-31-09.jpeg",
+                       "/products/132-whatsapp-image-2026-05-14-at-23-31-10-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Wallet Luxe 04 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-131",
+        "name":  "Monolith Runner 03",
+        "price":  289,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/131-whatsapp-image-2026-05-14-at-23-31-09.jpeg",
+                       "/products/132-whatsapp-image-2026-05-14-at-23-31-10-1.jpeg",
+                       "/products/133-whatsapp-image-2026-05-14-at-23-31-10-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "Monolith Runner 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-132",
+        "name":  "Elite Street Jacket 08",
+        "price":  229,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/132-whatsapp-image-2026-05-14-at-23-31-10-1.jpeg",
+                       "/products/133-whatsapp-image-2026-05-14-at-23-31-10-2.jpeg",
+                       "/products/134-whatsapp-image-2026-05-14-at-23-31-10.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Elite Street Jacket 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-133",
+        "name":  "Kasher Utility Set 08",
+        "price":  149,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/133-whatsapp-image-2026-05-14-at-23-31-10-2.jpeg",
+                       "/products/134-whatsapp-image-2026-05-14-at-23-31-10.jpeg",
+                       "/products/135-whatsapp-image-2026-05-14-at-23-31-11-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Kasher Utility Set 08 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-134",
+        "name":  "Luxury Black Set 09",
+        "price":  149,
+        "category":  "Pants",
+        "images":  [
+                       "/products/134-whatsapp-image-2026-05-14-at-23-31-10.jpeg",
+                       "/products/135-whatsapp-image-2026-05-14-at-23-31-11-1.jpeg",
+                       "/products/136-whatsapp-image-2026-05-14-at-23-31-11.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Luxury Black Set 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-135",
+        "name":  "Kasher Crossbody 05",
+        "price":  79,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/135-whatsapp-image-2026-05-14-at-23-31-11-1.jpeg",
+                       "/products/136-whatsapp-image-2026-05-14-at-23-31-11.jpeg",
+                       "/products/137-whatsapp-image-2026-05-14-at-23-31-12-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Crossbody 05 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-136",
+        "name":  "B30 Street Silver 03",
+        "price":  269,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/136-whatsapp-image-2026-05-14-at-23-31-11.jpeg",
+                       "/products/137-whatsapp-image-2026-05-14-at-23-31-12-1.jpeg",
+                       "/products/138-whatsapp-image-2026-05-14-at-23-31-12-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "B30 Street Silver 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-137",
+        "name":  "Street Luxe Jacket 09",
+        "price":  209,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/137-whatsapp-image-2026-05-14-at-23-31-12-1.jpeg",
+                       "/products/138-whatsapp-image-2026-05-14-at-23-31-12-2.jpeg",
+                       "/products/139-whatsapp-image-2026-05-14-at-23-31-12.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Street Luxe Jacket 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-138",
+        "name":  "Premium Cargo Black 09",
+        "price":  129,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/138-whatsapp-image-2026-05-14-at-23-31-12-2.jpeg",
+                       "/products/139-whatsapp-image-2026-05-14-at-23-31-12.jpeg",
+                       "/products/140-whatsapp-image-2026-05-14-at-23-31-13-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Premium Cargo Black 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-139",
+        "name":  "Kasher Core Hoodie 09",
+        "price":  199,
+        "category":  "Pants",
+        "images":  [
+                       "/products/139-whatsapp-image-2026-05-14-at-23-31-12.jpeg",
+                       "/products/140-whatsapp-image-2026-05-14-at-23-31-13-1.jpeg",
+                       "/products/141-whatsapp-image-2026-05-14-at-23-31-13-2.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Kasher Core Hoodie 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-140",
+        "name":  "Kasher Mini Bag 05",
+        "price":  129,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/140-whatsapp-image-2026-05-14-at-23-31-13-1.jpeg",
+                       "/products/141-whatsapp-image-2026-05-14-at-23-31-13-2.jpeg",
+                       "/products/142-whatsapp-image-2026-05-14-at-23-31-13.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Mini Bag 05 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-141",
+        "name":  "Kasher Motion Black 03",
+        "price":  249,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/141-whatsapp-image-2026-05-14-at-23-31-13-2.jpeg",
+                       "/products/142-whatsapp-image-2026-05-14-at-23-31-13.jpeg",
+                       "/products/143-whatsapp-image-2026-05-14-at-23-31-14-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Kasher Motion Black 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-142",
+        "name":  "Noir Signature Tee 09",
+        "price":  189,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/142-whatsapp-image-2026-05-14-at-23-31-13.jpeg",
+                       "/products/143-whatsapp-image-2026-05-14-at-23-31-14-1.jpeg",
+                       "/products/144-whatsapp-image-2026-05-14-at-23-31-14-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Noir Signature Tee 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-143",
+        "name":  "Atelier Cargo Fit 09",
+        "price":  109,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/143-whatsapp-image-2026-05-14-at-23-31-14-1.jpeg",
+                       "/products/144-whatsapp-image-2026-05-14-at-23-31-14-2.jpeg",
+                       "/products/145-whatsapp-image-2026-05-14-at-23-31-14-3.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Atelier Cargo Fit 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-144",
+        "name":  "Kasher Urban Set 09",
+        "price":  179,
+        "category":  "Pants",
+        "images":  [
+                       "/products/144-whatsapp-image-2026-05-14-at-23-31-14-2.jpeg",
+                       "/products/145-whatsapp-image-2026-05-14-at-23-31-14-3.jpeg",
+                       "/products/146-whatsapp-image-2026-05-14-at-23-31-14.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Kasher Urban Set 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-145",
+        "name":  "Kasher Cap Black 05",
+        "price":  109,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/145-whatsapp-image-2026-05-14-at-23-31-14-3.jpeg",
+                       "/products/146-whatsapp-image-2026-05-14-at-23-31-14.jpeg",
+                       "/products/147-whatsapp-image-2026-05-14-at-23-31-15-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  13,
+        "description":  "Kasher Cap Black 05 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-146",
+        "name":  "Luxe Track Runner 03",
+        "price":  299,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/146-whatsapp-image-2026-05-14-at-23-31-14.jpeg",
+                       "/products/147-whatsapp-image-2026-05-14-at-23-31-15-1.jpeg",
+                       "/products/148-whatsapp-image-2026-05-14-at-23-31-15-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  14,
+        "description":  "Luxe Track Runner 03 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-147",
+        "name":  "Midnight Track Set 09",
+        "price":  239,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/147-whatsapp-image-2026-05-14-at-23-31-15-1.jpeg",
+                       "/products/148-whatsapp-image-2026-05-14-at-23-31-15-2.jpeg",
+                       "/products/149-whatsapp-image-2026-05-14-at-23-31-15-3.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  15,
+        "description":  "Midnight Track Set 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-148",
+        "name":  "Elite Street Jacket 09",
+        "price":  89,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/148-whatsapp-image-2026-05-14-at-23-31-15-2.jpeg",
+                       "/products/149-whatsapp-image-2026-05-14-at-23-31-15-3.jpeg",
+                       "/products/150-whatsapp-image-2026-05-14-at-23-31-15.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  16,
+        "description":  "Elite Street Jacket 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-149",
+        "name":  "Kasher Utility Set 09",
+        "price":  159,
+        "category":  "Pants",
+        "images":  [
+                       "/products/149-whatsapp-image-2026-05-14-at-23-31-15-3.jpeg",
+                       "/products/150-whatsapp-image-2026-05-14-at-23-31-15.jpeg",
+                       "/products/151-whatsapp-image-2026-05-14-at-23-31-16-1.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  17,
+        "description":  "Kasher Utility Set 09 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-150",
+        "name":  "Kasher Belt Pack 05",
+        "price":  89,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/150-whatsapp-image-2026-05-14-at-23-31-15.jpeg",
+                       "/products/151-whatsapp-image-2026-05-14-at-23-31-16-1.jpeg",
+                       "/products/152-whatsapp-image-2026-05-14-at-23-31-16-2.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  18,
+        "description":  "Kasher Belt Pack 05 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-151",
+        "name":  "Dior B30 Black 04",
+        "price":  279,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/151-whatsapp-image-2026-05-14-at-23-31-16-1.jpeg",
+                       "/products/152-whatsapp-image-2026-05-14-at-23-31-16-2.jpeg",
+                       "/products/153-whatsapp-image-2026-05-14-at-23-31-16.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  4,
+        "description":  "Dior B30 Black 04 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-152",
+        "name":  "Luxury Black Set 10",
+        "price":  219,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/152-whatsapp-image-2026-05-14-at-23-31-16-2.jpeg",
+                       "/products/153-whatsapp-image-2026-05-14-at-23-31-16.jpeg",
+                       "/products/154-whatsapp-image-2026-05-14-at-23-31-17-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  5,
+        "description":  "Luxury Black Set 10 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-153",
+        "name":  "Street Luxe Jacket 10",
+        "price":  139,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/153-whatsapp-image-2026-05-14-at-23-31-16.jpeg",
+                       "/products/154-whatsapp-image-2026-05-14-at-23-31-17-1.jpeg",
+                       "/products/155-whatsapp-image-2026-05-14-at-23-31-17-2.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  6,
+        "description":  "Street Luxe Jacket 10 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-154",
+        "name":  "Premium Cargo Black 10",
+        "price":  209,
+        "category":  "Pants",
+        "images":  [
+                       "/products/154-whatsapp-image-2026-05-14-at-23-31-17-1.jpeg",
+                       "/products/155-whatsapp-image-2026-05-14-at-23-31-17-2.jpeg",
+                       "/products/156-whatsapp-image-2026-05-14-at-23-31-17.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  7,
+        "description":  "Premium Cargo Black 10 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-155",
+        "name":  "Kasher Side Pouch 05",
+        "price":  69,
+        "category":  "Accessories",
+        "images":  [
+                       "/products/155-whatsapp-image-2026-05-14-at-23-31-17-2.jpeg",
+                       "/products/156-whatsapp-image-2026-05-14-at-23-31-17.jpeg",
+                       "/products/157-whatsapp-image-2026-05-14-at-23-31-18-1.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Beige",
+                       "Blanc"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  8,
+        "description":  "Kasher Side Pouch 05 - accessoire premium VENDEUR KASHER 770, pratique et elegant.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-156",
+        "name":  "Kasher Runner Grey 04",
+        "price":  259,
+        "category":  "Sneakers",
+        "images":  [
+                       "/products/156-whatsapp-image-2026-05-14-at-23-31-17.jpeg",
+                       "/products/157-whatsapp-image-2026-05-14-at-23-31-18-1.jpeg",
+                       "/products/158-whatsapp-image-2026-05-14-at-23-31-18.jpeg"
+                   ],
+        "sizes":  [
+                      "Unique"
+                  ],
+        "shoeSizes":  [
+                          "40",
+                          "41",
+                          "42",
+                          "43",
+                          "44",
+                          "45"
+                      ],
+        "colors":  [
+                       "Noir",
+                       "Anthracite"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  9,
+        "description":  "Kasher Runner Grey 04 - paire premium streetwear luxe, silhouette technique et finition haut de gamme.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-157",
+        "name":  "Kasher Core Hoodie 10",
+        "price":  199,
+        "category":  "Hoodies",
+        "images":  [
+                       "/products/157-whatsapp-image-2026-05-14-at-23-31-18-1.jpeg",
+                       "/products/158-whatsapp-image-2026-05-14-at-23-31-18.jpeg",
+                       "/products/159-whatsapp-image-2026-05-14-at-23-33-04.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Blanc",
+                       "Gris"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  10,
+        "description":  "Kasher Core Hoodie 10 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  true
+    },
+    {
+        "id":  "vk770-158",
+        "name":  "Noir Signature Tee 10",
+        "price":  119,
+        "category":  "T-Shirts",
+        "images":  [
+                       "/products/158-whatsapp-image-2026-05-14-at-23-31-18.jpeg",
+                       "/products/159-whatsapp-image-2026-05-14-at-23-33-04.jpeg",
+                       "/products/001-whatsapp-image-2026-05-14-at-20-34-26-1.jpeg"
+                   ],
+        "sizes":  [
+                      "XS",
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Anthracite",
+                       "Beige"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  11,
+        "description":  "Noir Signature Tee 10 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "vk770-159",
+        "name":  "Atelier Cargo Fit 10",
+        "price":  189,
+        "category":  "Pants",
+        "images":  [
+                       "/products/159-whatsapp-image-2026-05-14-at-23-33-04.jpeg",
+                       "/products/001-whatsapp-image-2026-05-14-at-20-34-26-1.jpeg",
+                       "/products/002-whatsapp-image-2026-05-14-at-20-34-26-2.jpeg"
+                   ],
+        "sizes":  [
+                      "S",
+                      "M",
+                      "L",
+                      "XL"
+                  ],
+        "shoeSizes":  [
+
+                      ],
+        "colors":  [
+                       "Gris",
+                       "Noir"
+                   ],
+        "weightOptions":  [
+                              "Leger",
+                              "Standard",
+                              "Lourd"
+                          ],
+        "stock":  12,
+        "description":  "Atelier Cargo Fit 10 - tenue premium streetwear luxe, coupe moderne et finitions soignees.",
+        "featured":  false,
+        "bestSeller":  false
+    }
+]

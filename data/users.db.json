@@ -1,0 +1,12 @@
+﻿{
+    "users":  [
+                  {
+                      "fullName":  "Oriel Sabban",
+                      "email":  "orielsabban7@gmail.com",
+                      "password":  "Test1234!secure",
+                      "phone":  "",
+                      "address":  "",
+                      "username":  "orielsabban"
+                  }
+              ]
+}

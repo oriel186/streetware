@@ -1,0 +1,30 @@
+{
+  "orders": [
+    {
+      "id": "VK770-95203908",
+      "customer": {
+        "fullName": "oriel sabban",
+        "phone": "0745692665",
+        "address": "156 avenue de president wilson",
+        "email": "orielsabban4@gmail.com",
+        "notes": ""
+      },
+      "items": [
+        {
+          "productId": "noctra-003",
+          "name": "Cargo Vector Pant",
+          "price": 159,
+          "image": "/products/product-003.jpeg",
+          "size": "S",
+          "shoeSize": "N/A",
+          "color": "Olive",
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "especes",
+      "status": "en attente",
+      "total": 159,
+      "createdAt": "2026-05-14T21:46:43.908Z"
+    }
+  ]
+}
